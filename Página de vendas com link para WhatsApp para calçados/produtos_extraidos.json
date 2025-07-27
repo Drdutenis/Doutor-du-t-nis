@@ -1,0 +1,133 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "PLEIPS",
+      "preco": "$45.99",
+      "categoria": "Sandália",
+      "cor": "Nude",
+      "descricao": "Sandália de salto alto com tiras"
+    },
+    {
+      "id": 2,
+      "nome": "HIGH NIETS",
+      "preco": "$45.99",
+      "categoria": "Scarpin",
+      "cor": "Azul",
+      "descricao": "Scarpin de salto alto azul"
+    },
+    {
+      "id": 3,
+      "nome": "BLACK SIEPS",
+      "preco": "$46.99",
+      "categoria": "Scarpin",
+      "cor": "Preto",
+      "descricao": "Scarpin de salto alto preto"
+    },
+    {
+      "id": 4,
+      "nome": "ENEASGB",
+      "preco": "$45.99",
+      "categoria": "Tênis",
+      "cor": "Branco",
+      "descricao": "Tênis casual branco"
+    },
+    {
+      "id": 5,
+      "nome": "ANXILE STRAP",
+      "preco": "$48.99",
+      "categoria": "Sandália",
+      "cor": "Nude",
+      "descricao": "Sandália de salto com múltiplas tiras"
+    },
+    {
+      "id": 6,
+      "nome": "ANKLE BOOTS",
+      "preco": "$48.99",
+      "categoria": "Bota",
+      "cor": "Marrom",
+      "descricao": "Bota de cano baixo marrom"
+    },
+    {
+      "id": 7,
+      "nome": "GOLD VATIC",
+      "preco": "$48.99",
+      "categoria": "Bota",
+      "cor": "Dourado",
+      "descricao": "Bota dourada com cadarço"
+    },
+    {
+      "id": 8,
+      "nome": "PLAT SANDAL",
+      "preco": "$46.99",
+      "categoria": "Sandália",
+      "cor": "Azul",
+      "descricao": "Sandália rasteira azul com tiras"
+    },
+    {
+      "id": 9,
+      "nome": "AMIMAL PRIN AT",
+      "preco": "$46.99",
+      "categoria": "Sandália",
+      "cor": "Animal Print",
+      "descricao": "Sandália de salto com estampa animal"
+    },
+    {
+      "id": 10,
+      "nome": "LEOPNED BOOTS",
+      "preco": "$45.99",
+      "categoria": "Bota",
+      "cor": "Estampado",
+      "descricao": "Bota com estampa de leopardo"
+    },
+    {
+      "id": 11,
+      "nome": "TELACHANDA",
+      "preco": "$45.99",
+      "categoria": "Sandália",
+      "cor": "Azul",
+      "descricao": "Sandália de tiras azul"
+    },
+    {
+      "id": 12,
+      "nome": "BLACK INEOT",
+      "preco": "$45.99",
+      "categoria": "Sapato",
+      "cor": "Preto",
+      "descricao": "Sapato casual preto"
+    },
+    {
+      "id": 13,
+      "nome": "GRAY BLIANING",
+      "preco": "$45.99",
+      "categoria": "Tênis",
+      "cor": "Cinza",
+      "descricao": "Tênis esportivo cinza"
+    },
+    {
+      "id": 14,
+      "nome": "BLADT MILLS",
+      "preco": "$45.99",
+      "categoria": "Tênis",
+      "cor": "Cinza",
+      "descricao": "Tênis casual cinza"
+    },
+    {
+      "id": 15,
+      "nome": "GUTTES HIGHTS",
+      "preco": "$45.99",
+      "categoria": "Bota",
+      "cor": "Preto",
+      "descricao": "Bota preta de cano baixo"
+    },
+    {
+      "id": 16,
+      "nome": "HIETS BLUTTES",
+      "preco": "$48.99",
+      "categoria": "Bota",
+      "cor": "Preto Estampado",
+      "descricao": "Bota preta com detalhes estampados"
+    }
+  ]
+}
+
